@@ -1,0 +1,15 @@
+let correctUsername = "admin";
+let correctPassword = "12345";
+
+let username = "admin";
+let password = "11111";
+
+let failedAttempts = 0;
+
+if (username === correctUsername && password === correctPassword) {
+    console.log("Login Successful");
+} else {
+    failedAttempts++;
+    console.log("Login Failed");
+    console.log("Failed Attempts: " + failedAttempts);
+}

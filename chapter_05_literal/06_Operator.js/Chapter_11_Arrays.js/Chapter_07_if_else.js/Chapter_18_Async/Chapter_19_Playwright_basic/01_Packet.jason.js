@@ -1,0 +1,34 @@
+PS C: \Users\Admin\OneDrive\Desktop\LEARN_PLAYWRIGHT_BATCH_2X >
+    PS C: \Users\Admin\OneDrive\Desktop\LEARN_PLAYWRIGHT_BATCH_2X > npm init - y
+Wrote to C: \Users\Admin\OneDrive\Desktop\LEARN_PLAYWRIGHT_BATCH_2X\package.json:
+
+{
+    "name": "learn_playwright_batch_2x",
+        "version": "1.0.0",
+            "description": "Welcome to the **LEARN_PLAYWRIGHT_BATCH_2X** repository!   This project contains hands-on JavaScript and Playwright learning materials organized chapter-wise.",
+                "main": "httpStatusCategorizer.js",
+                    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+            "url": "git+https://github.com/agoswami2299-lgtm/LEARN_PLAYWRIGHT_BATCH_2X.git"
+    },
+    "keywords": [],
+        "author": "",
+            "license": "ISC",
+                "type": "commonjs",
+                    "bugs": {
+        "url": "https://github.com/agoswami2299-lgtm/LEARN_PLAYWRIGHT_BATCH_2X/issues"
+    },
+    "homepage": "https://github.com/agoswami2299-lgtm/LEARN_PLAYWRIGHT_BATCH_2X#readme"
+}
+
+
+PS C: \Users\Admin\OneDrive\Desktop\LEARN_PLAYWRIGHT_BATCH_2X >
+
+
+
+
+
+

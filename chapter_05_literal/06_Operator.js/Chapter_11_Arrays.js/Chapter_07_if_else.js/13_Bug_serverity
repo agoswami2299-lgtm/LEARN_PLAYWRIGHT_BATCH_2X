@@ -1,0 +1,17 @@
+let severity = 8;
+
+if (severity >= 9 && severity <= 10) {
+    console.log("Critical Severity");
+}
+else if (severity >= 7 && severity <= 8) {
+    console.log("High Severity");
+}
+else if (severity >= 4 && severity <= 6) {
+    console.log("Medium Severity");
+}
+else if (severity >= 1 && severity <= 3) {
+    console.log("Low Severity");
+}
+else {
+    console.log("Invalid Severity");
+}
