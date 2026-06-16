@@ -4,7 +4,12 @@
   "description": "Welcome to the **LEARN_PLAYWRIGHT_BATCH_2X** repository!   This project contains hands-on JavaScript and Playwright learning materials organized chapter-wise.",
   "main": "httpStatusCategorizer.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:headed": "npx playwright test --headed",
+    "test:debug": "npx playwright test --debug",
+    "show-report": "npx playwright show-report",
+    "install:browsers": "npx playwright install"
   },
   "repository": {
     "type": "git",
@@ -21,5 +26,7 @@
   "dependencies": {
     "playwright": "^1.61.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@playwright/test": "^1.61.0"
+  }
 }
