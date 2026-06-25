@@ -1,3 +1,5 @@
+// No break then it will excute all one by one
+
 let day = 3;
 
 switch (day) {

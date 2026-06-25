@@ -1,3 +1,4 @@
+// we can added more statment here
 let day = 3;
 
 switch (day) {

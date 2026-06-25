@@ -11,11 +11,11 @@ console.log(b);
 let c = 39
 console.log(c)
 
-//we can use $ sign for variable
+//we can use $ sign for in place of variable
 var $ = 24;
 console.log($);
 
 
-//we can use _ sign for variable
+//we can use _ sign for in place of variable
 var _g = 30;
 console.log(_g);

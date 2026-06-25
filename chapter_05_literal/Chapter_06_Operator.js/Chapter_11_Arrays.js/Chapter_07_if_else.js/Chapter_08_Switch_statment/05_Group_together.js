@@ -1,4 +1,4 @@
-let browser = "firefox";
+let browser = "Chrome";
 
 switch (browser.toLowerCase()) {
 
