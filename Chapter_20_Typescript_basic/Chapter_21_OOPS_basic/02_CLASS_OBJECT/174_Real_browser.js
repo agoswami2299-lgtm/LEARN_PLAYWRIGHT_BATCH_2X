@@ -11,4 +11,4 @@ class TestCase {
 let loginTC = new TestCase("Login Test", "Pass", "P0")
 let SinnhUpTC = new TestCase("SingnUp Test", "fail", "P1")
 
-loginTC.display();
+loginTC.display();  

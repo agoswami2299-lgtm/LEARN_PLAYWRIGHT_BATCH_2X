@@ -24,10 +24,13 @@
   },
   "homepage": "https://github.com/agoswami2299-lgtm/LEARN_PLAYWRIGHT_BATCH_2X#readme",
   "dependencies": {
+    "mysql": "^2.18.1",
     "playwright": "^1.61.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.61.0",
-    "@types/node": "^26.0.0"
+    "@types/node": "^26.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
   }
 }

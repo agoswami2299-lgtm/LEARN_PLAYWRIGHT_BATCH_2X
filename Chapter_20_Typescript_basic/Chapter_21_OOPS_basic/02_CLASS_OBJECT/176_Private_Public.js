@@ -9,7 +9,7 @@ class credentials {
         this.user = user //public
         this.#apikey = key;
     }
-    //ustom made function by us
+    //custom made function by us
     AbhishekgetauthorHeader() {
         return "Bearer" + this.#apikey;
     }
